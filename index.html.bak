@@ -69,8 +69,8 @@
 	<h2>I'm a 
 <span
  class="txt-rotate"
-data-period="2000"
-data-rotate='[ "Developer.", "Web Designer.", "Software Developer.", "Youtuber.", "Blogger" ]'></span>
+data-period="500"
+data-rotate='[ "Developer.","Desktop Support Engineer.", "Web Designer.", "Software Developer.", "Youtuber.", "Blogger" ]'></span>
 </h2>
 </div>
             </div>
@@ -87,7 +87,7 @@ data-rotate='[ "Developer.", "Web Designer.", "Software Developer.", "Youtuber."
     <section class="ftco-about img ftco-section ftco-no-pt ftco-no-pb" id="about-section">
     	<div class="container">
     		<div class="row d-flex no-gutters">
-    			<div class="col-md-6 col-lg-6 d-flex">
+    			<div class="col-md-2 col-lg-5 d-flex">
     				<div class="img-about img d-flex align-items-stretch">
     					<div class="overlay"></div>
 	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/about.jpg);">
@@ -118,10 +118,10 @@ data-rotate='[ "Developer.", "Web Designer.", "Software Developer.", "Youtuber."
 	          <div class="counter-wrap ftco-animate d-flex mt-md-3">
               <div class="text">
               	<p class="mb-4">
-	                <span class="number" data-number="10">0</span>
+	                <span class="number" data-number="135">0</span>
 	                <span>Project complete</span>
                 </p>
-                <p><a href="file:///E:/My%20potpolio%20Website/ronaldo/images/my%20resume.png" class="btn btn-primary py-3 px-3" target="_blank">Download CV</a></p>
+                <p><a href="https://drive.google.com/uc?export=download&id=1L2evhJkQTmg9APJFlbKu_WBZ7oB1_fau" class="btn btn-primary py-3 px-3" target="_blank">Download CV</a></p>
               </div>
 	          </div>
 	        </div>
@@ -167,20 +167,34 @@ data-rotate='[ "Developer.", "Web Designer.", "Software Developer.", "Youtuber."
 					<div class="col-md-9">
 					  <div id="page-1" class= "page one">
 					  	<h2 class="heading">Education.📚</h2>
+						
+						<div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">OCT.-2014</span>
+		    					<h2>(10th)National institute Of Open Schooling .🏫</h2>
+								<span class="position">Passing Year 2014./ Parcentage.56.66% .</span>
+								<br>
+	    					</div>
+	    				</div>
+						<div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">Mar-2016</span>
+		    					<h2>(12th)Board Of High school and intermediate Education up .🏫</h2>
+								<span class="position">Passing Year 2016. / Parcentage.58.98% .</span>
+								<br>
+	    					</div>
+	    				</div>
+						
 					    <div class="resume-wrap d-flex ftco-animate">
 					    	<div class="icon d-flex align-items-center justify-content-center">
 					    		<span class="flaticon-ideas"></span>
 					    	</div>
-							<div class="text pl-3">
-		    					<span class="date">May-2020</span>
-		    					<h2>(BCA).Bachelor Of Computer Applications .🏫</h2>
-								<span class="position">Grade .B. / CGPA .5.98 .</span>
-								<br>
-								<span class="position">Atharva College Of Engineering .</span>
-								<br>
-		    					<span class="position">Yashwantrao Chavan University .</span>
-		    					<!--<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>-->
-	    					</div>
 					    	<div class="text pl-3">
 		    					<span class="date">May-2020</span>
 		    					<h2>(BCA).Bachelor Of Computer Applications .🏫</h2>
@@ -219,6 +233,25 @@ data-rotate='[ "Developer.", "Web Designer.", "Software Developer.", "Youtuber."
 		    					<h2>Software Developer.</h2>
 		    					<span class="position">Java Intermediate Level.</span>
 		    					<p><b>Create Multiple Java Project in Netbeans.</b></p>
+		    				</div>
+	    				</div>
+						
+						<div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2018-2022</span>
+		    					<h2>Desktop Support Engineer .</h2>
+		    					<span class="position">Company Name.🏢 (Raj info Tech.)<br>Work Experience. (1 Year.)</span>
+								<br>
+		    					<h2>Technical/Core Subjects:</h2><p><b>Fluid Mechanics, Strength of
+									Materials, Industrial Engineering, Manufacturing Technology</p></b>
+								<span class="date">Language Skills:</span>
+								<span> Basics of | Desktop support | Troubleshooting desktop |
+								laptop OS issues. | Installation | re-installation | configuration of 
+								systems, printers, scanners. | software issues and report hardware issues.
+								| C | JAVA | HTML.CSS.</span>
 		    				</div>
 	    				</div>
 	    				<div class="resume-wrap d-flex ftco-animate">
